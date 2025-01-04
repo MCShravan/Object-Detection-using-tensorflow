@@ -1,4 +1,4 @@
-# Yolo v3 Object Detection in Tensorflow
+# Object Detection in Tensorflow Using Yolo V3
 Yolo v3 is an algorithm that uses deep convolutional neural networks to detect objects. <br> <br>
 [Kaggle notebook](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow) 
 
@@ -57,10 +57,3 @@ The detections will be saved as `detections.mp4` file.
 
 ## To-Do List
 * Model training
-
-## Acknowledgments
-* [Yolo v3 official paper](https://arxiv.org/abs/1804.02767)
-* [A Tensorflow Slim implementation](https://github.com/mystic123/tensorflow-yolo-v3)
-* [ResNet official implementation](https://github.com/tensorflow/models/tree/master/official/resnet)
-* [DeviceHive video analysis repo](https://github.com/devicehive/devicehive-video-analysis)
-* [A Street Walk in Shinjuku, Tokyo, Japan](https://www.youtube.com/watch?v=kZ7caIK4RXI)
